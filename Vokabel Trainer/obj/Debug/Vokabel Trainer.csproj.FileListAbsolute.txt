@@ -1,0 +1,12 @@
+C:\Users\Sakul\Desktop\Programmin Resouces\Visuals Projekts\Vokabel Trainer\Vokabel Trainer\bin\Debug\Vokabel Trainer.exe.config
+C:\Users\Sakul\Desktop\Programmin Resouces\Visuals Projekts\Vokabel Trainer\Vokabel Trainer\bin\Debug\Vokabel Trainer.exe
+C:\Users\Sakul\Desktop\Programmin Resouces\Visuals Projekts\Vokabel Trainer\Vokabel Trainer\bin\Debug\Vokabel Trainer.pdb
+C:\Users\Sakul\Desktop\Programmin Resouces\Visuals Projekts\Vokabel Trainer\Vokabel Trainer\obj\Debug\Vokabel Trainer.csproj.AssemblyReference.cache
+C:\Users\Sakul\Desktop\Programmin Resouces\Visuals Projekts\Vokabel Trainer\Vokabel Trainer\obj\Debug\Vokabel_Trainer.Properties.Resources.resources
+C:\Users\Sakul\Desktop\Programmin Resouces\Visuals Projekts\Vokabel Trainer\Vokabel Trainer\obj\Debug\Vokabel Trainer.csproj.GenerateResource.cache
+C:\Users\Sakul\Desktop\Programmin Resouces\Visuals Projekts\Vokabel Trainer\Vokabel Trainer\obj\Debug\Vokabel Trainer.csproj.CoreCompileInputs.cache
+C:\Users\Sakul\Desktop\Programmin Resouces\Visuals Projekts\Vokabel Trainer\Vokabel Trainer\obj\Debug\Vokabel Trainer.exe
+C:\Users\Sakul\Desktop\Programmin Resouces\Visuals Projekts\Vokabel Trainer\Vokabel Trainer\obj\Debug\Vokabel Trainer.pdb
+C:\Users\Sakul\Desktop\Programmin Resouces\Visuals Projekts\Vokabel Trainer\Vokabel Trainer\obj\Debug\Vokabel_Trainer.Form1.resources
+C:\Users\Sakul\Desktop\Programmin Resouces\Visuals Projekts\Vokabel Trainer\Vokabel Trainer\obj\Debug\Vokabel_Trainer.CConsole.resources
+C:\Users\Sakul\Desktop\Programmin Resouces\Visuals Projekts\Vokabel Trainer\Vokabel Trainer\obj\Debug\Vokabel_Trainer.AddLektion.resources
