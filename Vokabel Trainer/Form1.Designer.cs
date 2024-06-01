@@ -56,7 +56,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(125, 23);
             this.button1.TabIndex = 0;
-            this.button1.Text = "Vokabel Lektion lernen";
+            this.button1.Text = "Learn vocab unit"; //Vokabel Lektion lernen
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -86,7 +86,7 @@
             this.AddLektion.Name = "AddLektion";
             this.AddLektion.Size = new System.Drawing.Size(110, 23);
             this.AddLektion.TabIndex = 3;
-            this.AddLektion.Text = "Füge Lektion hinzu";
+            this.AddLektion.Text = "Add vocab unit";//Füge Lektion hinzu
             this.AddLektion.UseVisualStyleBackColor = true;
             this.AddLektion.Click += new System.EventHandler(this.AddLektion_Click);
             // 
@@ -96,7 +96,7 @@
             this.editLektionButton.Name = "editLektionButton";
             this.editLektionButton.Size = new System.Drawing.Size(87, 23);
             this.editLektionButton.TabIndex = 4;
-            this.editLektionButton.Text = "Edit Lektion";
+            this.editLektionButton.Text = "Edit vocab unit";//Edit Lektion
             this.editLektionButton.UseVisualStyleBackColor = true;
             this.editLektionButton.Click += new System.EventHandler(this.editLektionButton_Click);
             // 
@@ -129,7 +129,7 @@
             this.LektionAbfrage.Size = new System.Drawing.Size(334, 282);
             this.LektionAbfrage.TabIndex = 6;
             this.LektionAbfrage.TabStop = false;
-            this.LektionAbfrage.Text = "Abfrage";
+            this.LektionAbfrage.Text = "Interrogate/query";//Abfrage
             this.LektionAbfrage.Visible = false;
             // 
             // left
